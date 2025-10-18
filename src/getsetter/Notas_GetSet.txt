@@ -1,0 +1,7 @@
+Nessa aula abordamos o encapsulamento na classe Filme e a organização do código, o que é um ótimo começo. Além disso, vimos os modificadores de acesso public e private, que são essenciais para controlar a visibilidade dos atributos e métodos dentro de uma classe.
+
+Também vimos os métodos de leitura (getters) e de modificação (setters) dos atributos, que são formas controladas de acessar e alterar os valores dos atributos de um objeto.
+
+Além disso, aprendemos sobre o uso da palavra-chave import para incluir classes de outros pacotes e a palavra-chave this para referenciar o objeto atual.
+
+Também vimos sobre boas práticas de organização do código em pacotes, seguindo a convenção de usar o domínio da empresa ao contrário, como br.com.empresa.screenmatch.
