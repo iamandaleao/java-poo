@@ -1,5 +1,7 @@
 package interfaces.desafio2;
 
+//Crie uma classe CalculadoraSalaRetangular que implementa uma interface CalculoGeometrico com os métodos calcularArea() e calcularPerimetro() para calcular a área e o perímetro de uma sala retangular. A classe deve receber altura e largura como parâmetros.
+
 // Classe CalculadoraSalaRetangular implementando CalculoGeometrico
 public class CalculadoraSalaRetangular implements CalculoGeometrico {
     @Override
