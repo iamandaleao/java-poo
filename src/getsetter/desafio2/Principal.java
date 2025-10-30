@@ -2,7 +2,7 @@ package getsetter.desafio2;
 
 //Crie uma classe IdadePessoa com os atributos privados nome e idade. Utilize métdos getters e setters para acessar e modificar esses atributos. Adicione um métdo verificarIdade que imprime se a pessoa é maior de idade ou não.
 
-// Classe Principal — usada para testar a classe IdadePessoa
+// Classe screenmatch.principal.Principal — usada para testar a classe IdadePessoa
 public class Principal {
     public static void main(String[] args) {
 
