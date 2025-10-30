@@ -62,4 +62,9 @@ public class Titulo implements Comparable<Titulo> {
     public double pegaMedia() {
         return somaDasAvaliacoes / totalDeAvaliacoes;
     }
+
+    @Override
+    public int compareTo(Titulo outroTitulo) {
+        return this.getNome().compareTo(outroTitulo.getNome());
+    }
 }
