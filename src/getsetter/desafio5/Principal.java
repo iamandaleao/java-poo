@@ -2,7 +2,7 @@ package getsetter.desafio5;
 
 //Desenvolva uma classe Livro com os atributos privados titulo e autor. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um métdo exibirDetalhes que imprime o título e o autor do livro.
 
-// Classe Principal
+// Classe screenmatch.principal.Principal
 public class Principal {
     public static void main(String[] args) {
         Livro livro1 = new Livro();

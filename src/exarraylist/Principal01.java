@@ -1,6 +1,6 @@
 package exarraylist;
 
-// No métdo main da classe Principal, crie um ArrayList de Pessoa chamado listaDePessoas.
+// No métdo main da classe screenmatch.principal.Principal, crie um ArrayList de Pessoa chamado listaDePessoas.
 
 import java.util.ArrayList;
 

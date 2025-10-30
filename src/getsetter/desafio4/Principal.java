@@ -2,7 +2,7 @@ package getsetter.desafio4;
 
 // Desenvolva uma classe Aluno com os atributos privados nome e notas. Utilize métodos getters e setters para acessar e modificar esses atributos. Adicione um métdo calcularMedia que retorna a média das notas do aluno.
 
-//Classe Principal
+//Classe screenmatch.principal.Principal
 public class Principal {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno("Lulu", 7.5, 8.0, 9.2);
